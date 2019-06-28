@@ -1,0 +1,5 @@
+---
+TwoCaptcha:
+  apiKey: TWO_CAPTCHA_API_KEY
+  timeout: 120_000
+  polling: 5_000
